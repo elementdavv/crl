@@ -71,9 +71,6 @@ public class PDFWriter {
         }
     }
 
-    /*
-     * the stream was closed
-     */
     public void end() throws IOException {
         mPages.render();
         mDocument.includeIndirectObject(mPages.getIndirectObject());

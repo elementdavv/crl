@@ -1,5 +1,5 @@
 # CRL Java Pdfwriter
-A simple library to generate Pdf stream Implemented with pure java.
+A simple library to generate Pdf stream Implemented in pure java.
 
 ## Features
 - generate Pdf stream
@@ -11,4 +11,4 @@ A simple library to generate Pdf stream Implemented with pure java.
 - draw retangle
 
 ## Credits
-Based on [Android PDF Writer](http://coderesearchlabs.com/androidpdfwriter) licensed with BSD.
+Based on [Android PDF Writer](https://coderesearchlabs.com/androidpdfwriter) licensed with BSD.
