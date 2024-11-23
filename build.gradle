@@ -74,11 +74,11 @@ project.afterEvaluate {
 				pom {
 					name = 'crl'
 					url = 'https://github.com/elementdavv/crl'
-					description = 'CRL Java PdfWriter'
+					description = 'CRL Java PDFWriter'
 					licenses {
 						license {
 							name = 'GNU Affero General Public License'
-							url = 'https://www.gnu.org/licenses/agpl-3.0.html'
+							url = 'https://opensource.org/license/bsd-3-clause'
 						}
 					}
                     developers {
